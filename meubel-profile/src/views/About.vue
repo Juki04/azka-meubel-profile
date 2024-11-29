@@ -286,7 +286,7 @@
     </div>
 
     <!-- CTA Section -->
-    <div class="p-8 text-center text-white rounded-lg bg-meubel-primary sm:p-12 mb-16">
+    <div class="p-8 mb-16 text-center text-white rounded-lg bg-meubel-primary sm:p-12">
       <h2 class="mb-4 text-2xl font-bold sm:text-3xl">
         Siap Mewujudkan Furnitur Impian Anda?
       </h2>
