@@ -252,7 +252,7 @@
       <div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-4">
         <div class="p-6 text-center bg-white rounded-lg shadow-md sm:p-8">
           <div class="mb-2 text-3xl font-bold text-meubel-primary sm:text-4xl">
-            500+
+            3000+
           </div>
           <p class="text-sm text-gray-600 sm:text-base">
             Proyek Selesai
@@ -260,7 +260,7 @@
         </div>
         <div class="p-6 text-center bg-white rounded-lg shadow-md sm:p-8">
           <div class="mb-2 text-3xl font-bold text-meubel-primary sm:text-4xl">
-            300+
+            2000+
           </div>
           <p class="text-sm text-gray-600 sm:text-base">
             Pelanggan Puas
@@ -268,7 +268,7 @@
         </div>
         <div class="p-6 text-center bg-white rounded-lg shadow-md sm:p-8">
           <div class="mb-2 text-3xl font-bold text-meubel-primary sm:text-4xl">
-            5
+            20
           </div>
           <p class="text-sm text-gray-600 sm:text-base">
             Tahun Pengalaman
