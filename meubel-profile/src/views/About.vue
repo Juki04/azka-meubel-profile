@@ -6,7 +6,7 @@
         Tentang Azka Meubel
       </h1>
       <p class="mt-4 text-sm text-gray-600 sm:text-base lg:text-lg">
-        Menghadirkan Furnitur Berkualitas Sejak 2018
+        Menghadirkan Furnitur Berkualitas Sejak 2004
       </p>
     </div>
 
@@ -17,7 +17,7 @@
           Cerita Kami
         </h2>
         <p class="text-sm text-gray-600 sm:text-base">
-          Azka Meubel didirikan pada tahun 2018 dengan visi untuk menghadirkan furnitur berkualitas tinggi yang 
+          Azka Meubel didirikan pada tahun 2004 dengan visi untuk menghadirkan furnitur berkualitas tinggi yang 
           menggabungkan keindahan desain dengan kenyamanan. Berlokasi di Kedawung, Kediri, kami telah melayani 
           ribuan pelanggan dengan produk-produk furnitur terbaik.
         </p>
