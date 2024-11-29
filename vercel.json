@@ -1,0 +1,6 @@
+{
+  "outputDirectory": "meubel-profile/dist",
+  "buildCommand": "cd meubel-profile && npm install && npm run build",
+  "installCommand": "cd meubel-profile && npm install",
+  "framework": "vite"
+}
