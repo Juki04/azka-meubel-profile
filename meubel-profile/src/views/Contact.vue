@@ -142,7 +142,7 @@
       <!-- Map -->
       <div class="relative h-[400px] bg-gray-200 rounded-lg overflow-hidden shadow-md">
         <iframe
-          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3953.0666507275454!2d112.07196167485756!3d-7.781700677151327!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e785c0c7a9f8a5b%3A0x3c8a5f3c6a6c5f0e!2sAzka%20Meubel!5e0!3m2!1sid!2sid!4v1709715844044!5m2!1sid!2sid"
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3951.698819377233!2d111.9425371!3d-7.926492599999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e78fed0590df0e5%3A0x349bbe58b07ebf19!2sAzka%20Meubel!5e0!3m2!1sid!2sid!4v1733304068496!5m2!1sid!2sid"
           width="100%"
           height="100%"
           style="border:0;"
@@ -150,7 +150,6 @@
           loading="lazy"
           referrerpolicy="no-referrer-when-downgrade"
           class="absolute inset-0"
-          title="Lokasi Azka Meubel"
         />
         <!-- Area klik untuk membuka Google Maps (tidak termasuk kontrol) -->
         <div class="absolute inset-[60px] bottom-[60px] z-20">
